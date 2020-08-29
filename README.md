@@ -65,6 +65,5 @@ Create repo for instalation GLPI 9.4 on Ubuntu 18.04
 
 > sudo service apache2 restart
 
-
-
-
+# Integration with Active Directory
+https://techexpert.tips/pt-br/glpi-pt-br/glpi-autenticar-ldap-no-active-directory/
