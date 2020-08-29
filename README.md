@@ -58,9 +58,7 @@ Create repo for instalation GLPI 9.4 on Ubuntu 18.04
 > add content:
 
  <Directory "/var/www/html/glpi">    
-      AllowOverride All
-      
- </Directory>
+      AllowOverride All </Directory> 
   
 > sudo a2enconf glpi.conf
 
