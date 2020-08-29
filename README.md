@@ -2,10 +2,10 @@
 Create repo for instalation GLPI 9.4 on Ubuntu 18.04
 
 # Install mariadb server
-sudo apt update
-sudo apt -y upgrade
-sudo apt install mariadb-server
-sudo mysql_secure_installation
+> sudo apt update
+> sudo apt -y upgrade
+> sudo apt install mariadb-server
+> sudo mysql_secure_installation
 
 # Config Maria DB
 $ sudo mysql -u root -p
